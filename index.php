@@ -26,9 +26,9 @@
 	<script>
 		var voice = 'en-US_AllisonVoice';
 	var token = {
-  "url": "https://stream.watsonplatform.net/text-to-speech/api",
-  "password": "ymeWhvDbaGX6",
-  "username": "e1b38282-a8b6-4ec8-82ca-5645f65f0075"
+  "url": "",
+  "password": "",
+  "username": ""
 };
 	var wsURI = 'wss://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?voice=' +
 				  voice + '&watson-token=' + token;
